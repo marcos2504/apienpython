@@ -9,3 +9,5 @@ Para poder ejecutar el codigo debe utilizar los comandos ./install.sh(crea el en
 
 ## Extra
 Se debe crear y configurar un archivo ".env" con los datos del .env_example. 
+
+GRUPO Santino Rosso | Marcos Ibarra |Franco Martínez | Joaquín De Olano | Franco Isaguirre
